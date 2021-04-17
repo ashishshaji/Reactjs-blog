@@ -4,7 +4,7 @@
 
 Inorder to run the app in local machine
 
- 1. git the code
+ 1. clone the code
  2. run the following comments
 
     2.1. To start the json server
