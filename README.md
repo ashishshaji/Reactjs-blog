@@ -1,4 +1,4 @@
-# simple react blog app
+# React blog app
 
 ## React app using reactjs and using JSON server
 
@@ -20,3 +20,4 @@ Inorder to run the app in local machine
     ``` bash
         npm start
     ```
+demo link : https://drive.google.com/file/d/1fk6AvlSiFxzHDVk6TgOu3F6y5uxpiAh5/view?usp=sharing
